@@ -5,4 +5,4 @@ in text generation, they are inherently unidirectional, generating text only fro
 method that considers all permutations of the input sequence factorization order, enabling bidirectional text generation.
 
 # Architecture
-![Model Architecture](model_architecture)
+![Model Architecture](model_architecture.png)
